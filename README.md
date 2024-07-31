@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Final-year B.Tech student specializing in Artificial Intelligence and Machine Learning. Currently interning at Razorpod. Proficient in HTML, CSS, JavaScript, and passionate about integrating AI/ML technologies with web development to create innovative solutions. Committed to leveraging my diverse skill set to tackle complex problems and drive technological advancements.
+
+## Skills
+- Python, AI, ML
+- HTML, CSS, JavaScript
+- Data Science, Web Development
 <!--
 **yashjain510/yashjain510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
